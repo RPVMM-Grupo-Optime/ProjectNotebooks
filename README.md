@@ -1,6 +1,6 @@
 # ProjectNotebooks
 <h1>Arquivos</h1>
-3D-BPP - Heurística de empacotamento tridimensional funcional
-EmpacotamentoPVC - Solução inicial por etapas
-m-TSP (com cargas) - Metaheurísticas utilizadas
-true_model_BPP-mTSP - Modelo funcional
+<p>3D-BPP - Heurística de empacotamento tridimensional funcional</p>
+<p>EmpacotamentoPVC - Solução inicial por etapas</p>
+<p>m-TSP (com cargas) - Metaheurísticas utilizadas</p>
+<p>true_model_BPP-mTSP - Modelo funcional</p>
